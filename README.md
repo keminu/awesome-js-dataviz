@@ -10,6 +10,11 @@ JavaScript数据可视化方面集合，包括图表库、图形学、图形算�
 ## 小程序
 - [wx-charts](https://github.com/xiaolin3303/wx-charts)
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
+- [wx-f2](https://github.com/antvis/wx-f2)
+- [wx-charts](https://github.com/xiaolin3303/wx-charts)
+- [WeZRender](https://github.com/guyoung/WeZRender)
+- [wxapp-charts](https://github.com/hawx1993/wxapp-charts)
+- [chartjs-wechat-mini-app](https://github.com/xiabingwu/chartjs-wechat-mini-app)chartjs微信小程序适配
 
 ## 可视化编辑
 - [g6-editor](https://www.yuque.com/antv/g6-editor)
