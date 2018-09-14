@@ -10,6 +10,7 @@ JavaScript数据可视化方面集合，包括图表库、图形学、图形算�
 ## 小程序
 - [wx-charts](https://github.com/xiaolin3303/wx-charts)
 - [echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)
+- [mpvue-echarts](https://github.com/F-loat/mpvue-echarts)  echarts-for-weixin的mpvue版本
 - [wx-f2](https://github.com/antvis/wx-f2)
 - [wx-charts](https://github.com/xiaolin3303/wx-charts)
 - [WeZRender](https://github.com/guyoung/WeZRender)
